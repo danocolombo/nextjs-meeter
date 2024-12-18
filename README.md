@@ -1,6 +1,6 @@
-### Travel Hub
+### NextJs Meeter
 
-This is a simple experiment to implement a nextjs application on Vercel and use some tools I have not used frequently.
+Web based interface for Meeter
 
 -   ShadCn UI library
 -   Supabase with Prisma
@@ -10,10 +10,8 @@ This is a simple experiment to implement a nextjs application on Vercel and use 
 -   Stripe
 -   Vercel deployment
 
-This was only possible by the great tutorial of John Smilga the codding addict...
-
-Udemy - Mastering Next.js
 
 ----
 ### Development needs
-1. .env.local file needs to define the Clerk definitions
+1. .env.local
+2. .env
